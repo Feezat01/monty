@@ -38,7 +38,7 @@ return (toks_len);
 }
 
 /**
- *  is_empty_line - Checks if a line read from getline only contains delimiters.
+ *  is_empty_line - Checks if a line read from getline only contains delimiters
  *  @line: A pointer to the line.
  *  @delims: A string of delimiter characters.
  *
